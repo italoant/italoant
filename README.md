@@ -2,8 +2,8 @@
 ##
  <div>
   <a href="https://github.com/italoant">
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=italoant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoant&layout=compact&langs_count=7&theme=radical "/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=italoant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoant&layout=compact&langs_count=7&theme=radical "/>
 </div>
  <div style="display: inline_block"><br>
   <img align="center" alt="italo-html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
