@@ -1,4 +1,9 @@
 ### Fique a vontade!
+
+Atualmente trabalho na accenture como densenvolvedor Front/Back
+
+Front: Angular/React
+Back: Kotlin/Java/Node
   
  ## 
   
