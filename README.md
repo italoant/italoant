@@ -1,10 +1,4 @@
 ### Olá, eu me chamo Italo, Fique a vontade!
-##
- <div>
-  <a href="https://github.com/italoant">
-  <img height="168em" src="https://github-readme-stats.vercel.app/api?username=italoant&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italoant&layout=compact&langs_count=7&theme=radical "/>
-</div
   
  ## 
   
